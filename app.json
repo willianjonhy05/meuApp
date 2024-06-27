@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "meuApp",
-    "slug": "meuApp",
+    "slug": "projetowilliam",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb9d6028-3b2a-4e33-9fcc-4c0c62a0649f"
+      }
+    },
+    "owner": "willianjohny05"
   }
 }
